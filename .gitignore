@@ -1,0 +1,17 @@
+# Build output & IDE files
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Machine-specific / secret files
+local.properties
+google-services.json
+
+# OS files
+.DS_Store
+*.lnk
